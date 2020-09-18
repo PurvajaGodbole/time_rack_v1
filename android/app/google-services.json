@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645392792844",
+    "firebase_url": "https://mn692-database.firebaseio.com",
+    "project_id": "mn692-database",
+    "storage_bucket": "mn692-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645392792844:android:8a145079a6b0feb18b5d29",
+        "android_client_info": {
+          "package_name": "com.purvajagodbole.time_rack_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645392792844-j4qp3htetukmbj5ce3fvmj1d62oi8ksv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwdrsl9naKMZvxon7uPfIY5amfgNAGJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645392792844-j4qp3htetukmbj5ce3fvmj1d62oi8ksv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
